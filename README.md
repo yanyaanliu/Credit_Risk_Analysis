@@ -40,7 +40,7 @@ We are also using a combinatorial approach of over- and undersampling using the 
 
 
 ## Summary
-After reviewing all six models, the EasyEnsembleClassifer model yielded the best results. The balanced accuracy score was 0.925  and a 7% precision rate when predicting "High Risk" candidates. The recall or sensitivity rate was also the highest at 94%. 
+The EasyEnsembleClassifer model produced the best results among all six models. The balanced accuracy score was 0.925  and a 7% precision rate when predicting "High Risk" candidates. The recall or sensitivity rate was also the highest at 94%. 
 The second best model was the Balanced Random Forest Classifier with a balanced accuracy score was 0.787 and recall of 0.91
 
 I would recommend the EasyEnsembleClassifer model to predict credit card risk. 
